@@ -7,13 +7,18 @@ An awesome DX starting repo, clone or fork and go
 ## Resources
 
 - [Salesforce DX CLI installer](https://developer.salesforce.com/tools/sfdxcli)
-- Salesforce DX CLI NPM - run to install `npm install sfdx-cli --global`
+- Salesforce DX CLI install via NPM `npm install sfdx-cli --global`
 - [VSCode IDE](https://code.visualstudio.com/download)
 - [VSCode Extension Pack for Salesforce](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode)
 
-## VSCode Extensions
+## VSCode Extensions & Recommended Extensions
 
-- Uncrustify (Apex code formatting via Java standards) includes pre-configured cfg 
+- Uncrustify (Apex code formatting based Java standards) pre-configured cfg in repo
+- Apex PMD (Code Scanning)
+- Salesforce Documenter (Preferred)
+- Apex Java Docs (Alternative)
+- SalesforceDX Code Companion (Tooling API based deployments for non-scratch orgs development)
+- Salesforce Diff (Compare server apex with local apex)
 
 
 ## Description of Files and Directories
