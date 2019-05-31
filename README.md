@@ -13,7 +13,7 @@ An awesome DX starting repo, clone or fork and go
 
 ## VSCode Extensions
 
-- Uncrustify (Apex code formatting via Java standards) - pr-configured cfg 
+- Uncrustify (Apex code formatting via Java standards) includes pre-configured cfg 
 
 
 ## Description of Files and Directories
