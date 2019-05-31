@@ -4,6 +4,29 @@ An awesome DX starting repo, clone or fork and go
 
 ## Dev, Build and Test
 
+Getting started - clone this 
+
+```bash
+git clone git@github.com:agentgill/expert-chainsaw.git myworkingfolder
+```
+
+Delete my remote
+
+```bash
+git remote remove origin
+```
+
+New git remote
+```bash
+git remote add origin git@github.com:yourorg/yourrepo.git
+```
+
+Go Go Go
+
+```bash
+git push
+```
+
 ## Resources
 
 - [Salesforce DX CLI installer](https://developer.salesforce.com/tools/sfdxcli)
