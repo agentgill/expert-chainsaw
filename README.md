@@ -11,7 +11,7 @@ An awesome DX starting repo, clone or fork and go
 - [VSCode IDE](https://code.visualstudio.com/download)
 - [VSCode Extension Pack for Salesforce](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode)
 
-## VSCode Extensions & Recommended Extensions
+## Recommended VSCode Extensions
 
 - Uncrustify (Apex code formatting based Java standards) pre-configured cfg in repo
 - Apex PMD (Code Scanning)
