@@ -1,4 +1,4 @@
-# SFDX App!
+# SFDX App
 
 An awesome DX starting repo, clone or fork and go
 
