@@ -1,10 +1,10 @@
-# SFDX App
+# SFDX App!
 
 An awesome DX starting repo, clone or fork and go
 
 ## Dev, Build and Test
 
-Getting started - clone this 
+Getting started - clone this
 
 ```bash
 git clone git@github.com:agentgill/expert-chainsaw.git myworkingfolder
